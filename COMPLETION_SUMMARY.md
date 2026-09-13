@@ -56,13 +56,11 @@ I have successfully completed the 14-day data science interview preparation plan
    - Multiple alternative approaches
    - Comprehensive test cases
    - Clear comments and type hints
-
 3. **Structured Learning Plan**: 
    - Day-by-day schedule covering Python, statistics, machine learning, and SQL
    - Specific time blocks for theory, practice, and problem-solving
    - Curated resource links for each topic
    - GitHub commit messages following the requested format
-
 4. **Interview Preparation Focus**:
    - Problems selected to represent common data science interview patterns
    - Emphasis on practical applicability to data science roles
